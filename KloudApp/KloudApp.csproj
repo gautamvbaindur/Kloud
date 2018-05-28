@@ -60,6 +60,10 @@
       <Project>{DA4FEA37-9678-4449-BBAF-07150F35350B}</Project>
       <Name>Kloud.BusinessLogic</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Kloud.Models\Kloud.Models.csproj">
+      <Project>{10601f79-72f1-4181-bd0a-a35cbd633f24}</Project>
+      <Name>Kloud.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

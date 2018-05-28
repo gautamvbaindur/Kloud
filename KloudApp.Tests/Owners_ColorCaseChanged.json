@@ -1,0 +1,120 @@
+﻿[
+  {
+    "name": "Bradley",
+    "cars": [
+      {
+        "brand": "MG",
+        "colour": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Demetrios",
+    "cars": [
+      {
+        "brand": "Toyota",
+        "colour": "Green"
+      },
+      {
+        "brand": "Holden",
+        "colour": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Brooke",
+    "cars": [
+      {
+        "brand": "Holden",
+        "colour": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Kristin",
+    "cars": [
+      {
+        "brand": "Toyota",
+        "colour": "Blue"
+      },
+      {
+        "brand": "Mercedes",
+        "colour": "Green"
+      },
+      {
+        "brand": "Mercedes",
+        "colour": "Yellow"
+      }
+    ]
+  },
+  {
+    "name": "Andre",
+    "cars": [
+      {
+        "brand": "BMW",
+        "colour": "Green"
+      },
+      {
+        "brand": "Holden",
+        "colour": "Black"
+      }
+    ]
+  },
+  {
+    "name": "Gautam",
+    "cars": [
+      {
+        "brand": "Mercedes",
+        "colour": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Baindur",
+    "cars": [
+      {
+        "brand": "Mercedes",
+        "colour": "Red"
+      },
+      {
+        "brand": "Audi",
+        "colour": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Matilda",
+    "cars": [
+      {
+        "brand": "Holden",
+        "colour": "Grey"
+      },
+      {
+        "brand": "BMW",
+        "colour": "Black"
+      }
+    ]
+  },
+  {
+    "name": "Iva",
+    "cars": [
+      {
+        "brand": "Toyota",
+        "colour": "Purple"
+      }
+    ]
+  },
+  {
+    "name": "Kloud",
+    "cars": [
+      {
+        "brand": "Toyota",
+        "colour": "Blue"
+      },
+      {
+        "brand": "Mercedes",
+        "colour": "black"
+      }
+    ]
+  }
+]

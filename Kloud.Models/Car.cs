@@ -1,4 +1,4 @@
-﻿namespace KloudApp.Models
+﻿namespace Kloud.Models
 {
     public class Car
     {

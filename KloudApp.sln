@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kloud.BusinessLogic", "Klou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KloudApp.Tests", "KloudApp.Tests\KloudApp.Tests.csproj", "{55D86212-3B2E-488A-8290-4EAFCDE38C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kloud.Models", "Kloud.Models\Kloud.Models.csproj", "{10601F79-72F1-4181-BD0A-A35CBD633F24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{55D86212-3B2E-488A-8290-4EAFCDE38C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D86212-3B2E-488A-8290-4EAFCDE38C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D86212-3B2E-488A-8290-4EAFCDE38C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10601F79-72F1-4181-BD0A-A35CBD633F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10601F79-72F1-4181-BD0A-A35CBD633F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10601F79-72F1-4181-BD0A-A35CBD633F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10601F79-72F1-4181-BD0A-A35CBD633F24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

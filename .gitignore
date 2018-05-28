@@ -13,3 +13,7 @@ KloudApp.Tests/obj/**/*
 KloudApp/bin/**/*
 KloudApp/obj/**/*
 packages
+.vs/config/applicationhost.config
+*.txt
+Kloud.Models/bin/**/*
+Kloud.Models/obj/**/*

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Kloud.BusinessLogic.Models
+namespace Kloud.Models
 {
     public class TransformedModel
     {

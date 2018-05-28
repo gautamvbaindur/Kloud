@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace KloudApp.Models
+namespace Kloud.Models
 {
     public class Owner
     {

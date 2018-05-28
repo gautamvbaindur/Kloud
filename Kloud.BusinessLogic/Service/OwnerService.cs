@@ -1,16 +1,16 @@
 ﻿using KloudApp.ConfigManager;
-using KloudApp.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Kloud.Models;
 
 namespace Kloud.BusinessLogic.Service
 {
     public class OwnerService : IOwnerService
     {
-        private IConfigurationManager _configManager;
+        private readonly IConfigurationManager _configManager;
 
         public OwnerService(IConfigurationManager configManager)
         {

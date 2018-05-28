@@ -9,7 +9,7 @@ namespace KloudApp.ConfigManager
     {
         //created a func here as we can add more configs in the future and this method might have to be repeated for all the configs that we have to fetch
         //creating a func here results in code reuse if we add more keys in the future
-        private Func<string, string> GetConfig = (string configKey) =>
+        private readonly Func<string, string> _config = configKey =>
         {
             if (CM.ConfigurationManager.AppSettings.AllKeys.Any(key => key == configKey))
             {
@@ -20,7 +20,7 @@ namespace KloudApp.ConfigManager
 
         public string GetCarsAndOwnersUrl()
         {
-           return GetConfig(Constants.CARS_OWNERS_URL);
+           return _config(Constants.CARS_OWNERS_URL);
         }
     }
 }
