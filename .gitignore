@@ -1,0 +1,15 @@
+
+*.dll
+*.xml
+*.pdb
+*.exe
+*.nupkg
+*._
+Kloud.BusinessLogic/bin/**/*
+Kloud.BusinessLogic/obj/**/*
+*.cache
+KloudApp.Tests/bin/**/*
+KloudApp.Tests/obj/**/*
+KloudApp/bin/**/*
+KloudApp/obj/**/*
+packages
