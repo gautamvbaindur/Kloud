@@ -87,6 +87,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Owners_Original.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Owners_ColorCaseChanged.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

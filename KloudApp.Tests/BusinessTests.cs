@@ -94,6 +94,21 @@ namespace KloudApp.Tests
                 });
         }
 
+
+        [TestMethod]
+        public void Test_Replica_ReturnsSameData()
+        {
+            //arrange
+            var replica = new Replica();
+
+            //act
+            var result = replica.ReplicaService();
+
+            //assert
+            Assert.AreEqual(JsonConvert.SerializeObject(GetOwnerList("Owners_Original.json")).Trim(), result.Trim());
+        }
+
+
         private IEnumerable<Owner> GetOwnerList(string fileName)
         {
             var json = string.Empty;

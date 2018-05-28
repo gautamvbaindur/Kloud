@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business\Business.cs" />
+    <Compile Include="Business\Replica.cs" />
     <Compile Include="ConfigManager\ConfigurationManager.cs" />
     <Compile Include="ConfigManager\IConfigurationManager.cs" />
     <Compile Include="Constants.cs" />
